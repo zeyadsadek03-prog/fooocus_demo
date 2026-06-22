@@ -1,11 +1,19 @@
-# Fooocus AI — Minimalism Bundle 1
+# Fooocus AI — Generated Images Demo
 
-Generated images using Fooocus (Stable Diffusion).
+This repository showcases AI-generated images created with **Fooocus** (Stable Diffusion-based UI).
 
-## Gallery
 
-![01](./images/01.png)
-![02](./images/02.png)
-![03](./images/03.png)
-![04](./images/04.png)
-![05](./images/05.png)
+### Image 1
+https://github.com/zeyadsadek03-prog/fooocus_demo/blob/68da8ef49b29aeabeee183dd7efa72db926b93de/image%20(1).png
+
+### Image 2
+https://github.com/zeyadsadek03-prog/fooocus_demo/blob/68da8ef49b29aeabeee183dd7efa72db926b93de/image%20(2).png
+
+### Image 3
+https://github.com/zeyadsadek03-prog/fooocus_demo/blob/68da8ef49b29aeabeee183dd7efa72db926b93de/image%20(3).png
+
+### Image 4
+https://github.com/zeyadsadek03-prog/fooocus_demo/blob/68da8ef49b29aeabeee183dd7efa72db926b93de/image%20(5).png
+
+### Image 5
+https://github.com/zeyadsadek03-prog/fooocus_demo/blob/68da8ef49b29aeabeee183dd7efa72db926b93de/image.png
