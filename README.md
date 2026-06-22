@@ -4,7 +4,7 @@ This repository showcases AI-generated images created with **Fooocus** (Stable D
 
 
 ### Image 1
-![image alt] (https://github.com/zeyadsadek03-prog/fooocus_demo/blob/68da8ef49b29aeabeee183dd7efa72db926b93de/image%20(1).png)
+![image alt] (https://github.com/zeyadsadek03-prog/fooocus_demo/blob/main/image%20(1).png?raw=true)
 
 ### Image 2
 https://github.com/zeyadsadek03-prog/fooocus_demo/blob/68da8ef49b29aeabeee183dd7efa72db926b93de/image%20(2).png
