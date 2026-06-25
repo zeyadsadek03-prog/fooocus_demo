@@ -1,6 +1,7 @@
 # Fooocus AI — Generated Images Demo
 
-Open In Colab
+[Open In Colab
+](https://colab.research.google.com/github/zeyadsadek03-prog/fooocus_demo/blob/main/fooocus_colab.ipynb)
 
 This repository showcases AI-generated images created with **Fooocus** (Stable Diffusion-based UI).
 
