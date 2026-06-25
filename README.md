@@ -1,5 +1,7 @@
 # Fooocus AI — Generated Images Demo
 
+Open In Colab
+
 This repository showcases AI-generated images created with **Fooocus** (Stable Diffusion-based UI).
 
 
